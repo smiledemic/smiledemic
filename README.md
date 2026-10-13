@@ -2,9 +2,9 @@
 
 ![smiledemic Header](https://raw.githubusercontent.com/smiledemic/smiledemic/main/src/header.png)
 
-### Game Development • Web Projects • Open Source
-
-*Building projects, reviving games, experimenting with the web, and collaborating with developers.*
+### Ankom Studios presents...
+***Smiledemic;***
+*For a Better Html5 World.*
 
 [![Website](https://img.shields.io/badge/Website-Ankom%20Studios-8A2BE2?style=for-the-badge&logo=googlechrome&logoColor=white)](https://ankomstudios.com)
 [![Spotify](https://img.shields.io/badge/Spotify-Listen%20Now-1DB954?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/artist/01JJmyvW0JjxC0fpLurTAR?si=hj2tc54KQZm89fQGDh3ECg)
