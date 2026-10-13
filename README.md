@@ -9,11 +9,14 @@
 [![Website](https://img.shields.io/badge/Website-Ankom%20Studios-8A2BE2?style=for-the-badge&logo=googlechrome&logoColor=white)](https://ankomstudios.com)
 [![Spotify](https://img.shields.io/badge/Spotify-Listen%20Now-1DB954?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/artist/01JJmyvW0JjxC0fpLurTAR?si=hj2tc54KQZm89fQGDh3ECg)
 [![GitHub](https://img.shields.io/badge/GitHub-smiledemic-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/smiledemic)
+
 </div>
 
-## What Skills I Know
+---
 
 <div align="center">
+
+**What Skills I Know**
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
