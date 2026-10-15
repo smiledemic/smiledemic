@@ -1,6 +1,8 @@
 <div align="center">
 ![smiledemic Header](https://raw.githubusercontent.com/smiledemic/smiledemic/main/src/headMaqwk.gif)
+  
 ![smiledemic Header](https://raw.githubusercontent.com/smiledemic/smiledemic/main/src/header.png)
+
 ![smiledemic Header](https://raw.githubusercontent.com/smiledemic/smiledemic/main/src/headMaqwk.gif)
 
 ### Ankom Studios presents...
