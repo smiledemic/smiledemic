@@ -9,7 +9,7 @@
 [![Website](https://img.shields.io/badge/Website-Ankom%20Studios-8A2BE2?style=for-the-badge&logo=googlechrome&logoColor=white)](https://ankomstudios.com)
 [![Spotify](https://img.shields.io/badge/Spotify-Listen%20Now-1DB954?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/artist/01JJmyvW0JjxC0fpLurTAR?si=hj2tc54KQZm89fQGDh3ECg)
 [![GitHub](https://img.shields.io/badge/GitHub-smiledemic-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/smiledemic)
-
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/Q2S229OIPC)
 </div>
 
 ---
@@ -34,7 +34,6 @@
 
 ### Contact me
 
-[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/Q2S229OIPC)
 **[☭ⒶSMILEDEMICⒶ☭ــــــــﮩ٨ـ](https://discord.com/users/1532986870475002046) · [Ankom Studios](https://ankomstudios.com/smiledemic/) · [Spotify](https://open.spotify.com/artist/01JJmyvW0JjxC0fpLurTAR?si=hj2tc54KQZm89fQGDh3ECg)**
 
 </div>
